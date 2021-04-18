@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
 
-[![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edumate696&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a herf="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Edumate696&count_private=true&show_icons=true" />
+</a>
+
+<a herf="https://github.com/anuraghazra/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edumate696&layout=compact&langs_count=10" />
+</a>
+
+</p>

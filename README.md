@@ -6,7 +6,7 @@ Student at [Govt. College of Engineering & Textile Technology, Berhampore](http:
 [![GitHub Edumate696](https://img.shields.io/github/followers/Edumate696?label=follow&style=social)](https://github.com/Edumate696)
 [![Twitter: mahanty_arpan](https://img.shields.io/twitter/follow/mahanty_arpan?style=social)](https://twitter.com/mahanty_arpan)
 
-<img alt="" style="float: right" src="https://media0.giphy.com/media/9fxlu9SSqOT7y/giphy_s.gif?cid=790b7611d2a9d84165c279c224b4a4df1ac303e249f6e423&rid=giphy_s.gif&ct=s">
+![](https://media0.giphy.com/media/9fxlu9SSqOT7y/giphy_s.gif?cid=790b7611d2a9d84165c279c224b4a4df1ac303e249f6e423&rid=giphy_s.gif&ct=s)
 
 ## Career Objective 🚀
 
@@ -28,12 +28,13 @@ serve, while also concurrently upgrading my skills and knowledge.
 - Dart
 - C / C++
 
-## Projects
+## Projects ✨
 
-- [Miracurol 2.0]() – Website to help patients access their medical condition and access various medical essential from
-  the same place.
-- [ProjectX Music App]() – A Music Recommendation System made using Flutter and backed by FastAPI.
-- [Kode]() – A Programming Language Interpreter backed by JVM.
+- [Miracurol 2.0](https://soumyajitnandi.000webhostapp.com/) – Website to help patients access their medical condition
+  and access various medical essential from the same place.
+- [ProjectX Music App](https://github.com/ProjectX-music) – A Music Recommendation System made using Flutter and backed
+  by FastAPI.
+- [Kode](https://github.com/Kode-Devs) – A Programming Language Interpreter backed by JVM.
 
 ## Additional Qualification 👀
 
@@ -42,7 +43,7 @@ serve, while also concurrently upgrading my skills and knowledge.
 | Graduate Aptitude Test in Engineering  | Qualified  | 2021 | 13616 |
 | West Bengal Joint Entrance Examination | Qualified  | 2018 | 6099  |
 
-## Academic Qualification
+## Academic Qualification 🏫
 
 | Qualification          | School/College                                                | Board/University                                              | Year | Result |
 |------------------------|---------------------------------------------------------------|---------------------------------------------------------------|------|--------|
@@ -50,8 +51,9 @@ serve, while also concurrently upgrading my skills and knowledge.
 | Higher Secondary       | Guru Teg Bahadur Public School, Durgapur                      | Central Board of Secondary Education                          | 2018 | 89 %   |
 | Secondary              | Guru Teg Bahadur Public School, Durgapur                      | Central Board of Secondary Education                          | 2016 | 95 %   |
 
-## Achievements
+## Achievements 👨‍🎓
 
-- Got into top 5% in NPTEL Online Certification Exam for successfully completing the course Problem Solving Through
-  Programming In C.
-- Achieved 10 pointers title in my Secondary School Examination under Central Board of Secondary Education, Delhi.
+- Got into **top 5%** in **NPTEL Online Certification Exam** for successfully completing the course **Problem Solving
+  Through Programming In C**.
+- Achieved **10 pointers** title in my **Secondary School Examination** under **Central Board of Secondary Education,
+  Delhi**.

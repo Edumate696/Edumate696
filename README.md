@@ -1,28 +1,5 @@
-### Hi there 👋
+# Hi, I am Arpan Mahanty!
 
-<!--
-**Edumate696/Edumate696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>
-
-<a herf="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Edumate696&count_private=true&show_icons=true" />
-</a>
-
-<a herf="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edumate696&layout=compact&langs_count=10" />
-</a>
-
-</p>
+[![Twitter: mahanty_arpan](https://img.shields.io/twitter/follow/mahanty_arpan?style=social)](https://twitter.com/mahanty_arpan)
+[![Linkedin: arpan-mahanty-40252a190](https://img.shields.io/badge/-Arpan_Mahanty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-mahanty-40252a190/)](https://www.linkedin.com/in/arpan-mahanty-40252a190/)
+[![GitHub Edumate696](https://img.shields.io/github/followers/Edumate696?label=follow&style=social)](https://github.com/Edumate696)
